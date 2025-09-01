@@ -1,4 +1,4 @@
-## 4. User Guide (Instructions)
+## User Guide (Instructions)
 
 ### Controls
 - **WASD** → Move the player  
